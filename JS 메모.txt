@@ -1,4 +1,19 @@
+함수
+
+1.	대문자 변경 : toUpperCase()
+
+2.	배열 추가 : Array.push(), Array.unshift(), Array.splice()
+
+3.	배열 삭제 : Array.pop(), Array.shift(), Array.splice()
+
+4.      객체 키, 값 가져오기 : Object.keys(), Object.values()
+
+
 객체 => const 객체 = {, , , ,}
 1.	키 값이 한쌍
 2.	블리안, 숫자, 스트링, 배열, null, undeifind, 객체 등등.. 값으로 가질 수 있다
 3.	배열안에 객체 생성 가능
+
+null
+
+1.	빈 배열 length 값 0 if(arr.length === 0) return null;
